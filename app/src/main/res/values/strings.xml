@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Trip Generation Manual India</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string-array name="cat1">
+        <item>Residential</item>
+        <item>Institutional</item>
+        <item>Commercial</item>
+    </string-array>
+    <string-array name="cat2">
+        <item>Low Raised Apartments</item>
+        <item>Independent House</item>
+        <item>Residential Buildings</item>
+    </string-array>
+    <string-array name="cat3">
+        <item>Person Trip</item>
+        <item>Vehicular Trip</item>
+    </string-array>
+    <string-array name="cat4">
+        <item>AM Peak</item>
+        <item>PM Peak</item>
+    </string-array>
+    <string-array name="cat5">
+        <item>Primary And Secondary Schools</item>
+        <item>Intermediate College</item>
+        <item>Degree College</item>
+    </string-array>
+    <string-array name="cat6">
+        <item>Morning Session</item>
+        <item>Evening Session</item>
+    </string-array>
+    <string-array name="cat7">
+        <item>Afternoon Peak</item>
+        <item>Evening Peak</item>
+    </string-array>
+    <string-array name="cat8">
+        <item>Hotels</item>
+    </string-array>
+
+
+</resources>
